@@ -25,8 +25,8 @@ In this project, we analyzed an Indian E-commerce store dataset from Kaggle, com
 📊 These insights can guide decision-making processes, such as optimizing inventory, setting sales targets, tailoring marketing strategies, and identifying areas of improvement to enhance overall performance and profitability.
 
 Author 
-Rishi Shukla
-***
+**Rishi Shukla**
+
 
 
 
